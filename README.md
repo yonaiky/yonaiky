@@ -6,7 +6,7 @@
 <ul>
   <li>💼 I'm a Junior Programmer, passionate about web development and software engineering.</li>
   <li>🌱 I'm constantly learning and improving my skills in C#, LINQ, JavaScript, React, and SQL Server.</li>
-  <li>📧 You can reach me at <a href="mailto:your@email.com">your@email.com</a>.</li>
+  <li>📧 You can reach me at <a href="mailto:yonaikymatos@gmail.com">your@email.com</a>.</li>
 </ul>
 
 <h2>Skills</h2>
