@@ -10,14 +10,26 @@
 </ul>
 
 <h2>Skills</h2>
+<h2>Skills</h2>
 <p>I'm proficient in the following languages and tools:</p>
 <ul>
-  <li><strong>C#</strong></li>
-  <li><strong>LINQ</strong></li>
-  <li><strong>JavaScript</strong></li>
-  <li><strong>React</strong></li>
-  <li><strong>SQL Server</strong></li>
+  <li>
+    <strong><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20" height="20" /> C#</strong>
+  </li>
+  <li>
+    <strong><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linq/linq-original.svg" width="20" height="20" /> LINQ</strong>
+  </li>
+  <li>
+    <strong><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" /> JavaScript</strong>
+  </li>
+  <li>
+    <strong><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20" /> React</strong>
+  </li>
+  <li>
+    <strong><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-plain.svg" width="20" height="20" /> SQL Server</strong>
+  </li>
 </ul>
+
 
 <h2>Projects</h2>
 <p>Here are a few projects I've worked on:</p>
