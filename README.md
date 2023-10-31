@@ -8,27 +8,9 @@
   <li>🌱 I'm constantly learning and improving my skills in C#, LINQ, JavaScript, React, and SQL Server.</li>
   <li>📧 You can reach me at <a href="mailto:yonaikymatos@gmail.com">yonaikymatos@gmail.com</a>.</li>
 </ul>
+<h3 align="left">Languages and Tools:</h3>
 
-<h2>Skills</h2>
-<h2>Skills</h2>
-<p>I'm proficient in the following languages and tools:</p>
-<ul>
-  <li>
-    <strong><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20" height="20" /> C#</strong>
-  </li>
-  <li>
-    <strong><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linq/linq-original.svg" width="20" height="20" /> LINQ</strong>
-  </li>
-  <li>
-    <strong><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" /> JavaScript</strong>
-  </li>
-  <li>
-    <strong><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20" /> React</strong>
-  </li>
-  <li>
-    <strong><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-plain.svg" width="20" height="20" /> SQL Server</strong>
-  </li>
-</ul>
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,html,css,dotnet,react,nextjs,nodejs,tailwind,postgres,vscode,git)](https://skillicons.dev)
 
 
 <h2>Projects</h2>
