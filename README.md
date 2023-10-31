@@ -13,24 +13,12 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,js,ts,html,css,dotnet,react,nextjs,nodejs,tailwind,postgres,vscode,git)](https://skillicons.dev)
 
 
-<h2>Projects</h2>
-<p>Here are a few projects I've worked on:</p>
-<ul>
-  <li><strong>Project 1</strong>: A web application developed with React for [describe the project].</li>
-  <li><strong>Project 2</strong>: An e-commerce platform built using C# and SQL Server for [describe the project].</li>
-</ul>
-
 <h2>Contact Me</h2>
 <p>Let's connect! You can find me on:</p>
 <ul>
-  <li><a href="https://www.linkedin.com/in/yourusername">LinkedIn</a></li>
-  <li><a href="https://github.com/yourusername">GitHub</a></li>
-  <li><a href="https://twitter.com/yourusername">Twitter</a></li>
+  <li><a href="https://www.linkedin.com/in/yonaikymatos">LinkedIn</a></li>
+  <li><a href="https://github.com/yonaiky">GitHub</a></li>
 </ul>
 
-<h2>Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Top Languages">
-
-<img src="https://github-readme-stats.vercel.app/api/?username=yourusername&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=your-repo-name" alt="GitHub Stats">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+<img width=390 src="https://streak-stats.demolab.com/?user=iiimatos&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iiimatos&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
