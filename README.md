@@ -1,16 +1,42 @@
-### Hi there 👋
+<h1>Hi there! 👋, I'm Yonaiky Matos</h1>
 
-<!--
-**yonaiky/yonaiky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm a junior programmer with expertise in C#, LINQ, JavaScript, React, and SQL Server.</p>
 
-Here are some ideas to get you started:
+<h2>About Me</h2>
+<ul>
+  <li>💼 I'm a Junior Programmer, passionate about web development and software engineering.</li>
+  <li>🌱 I'm constantly learning and improving my skills in C#, LINQ, JavaScript, React, and SQL Server.</li>
+  <li>📧 You can reach me at <a href="mailto:your@email.com">your@email.com</a>.</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Skills</h2>
+<p>I'm proficient in the following languages and tools:</p>
+<ul>
+  <li><strong>C#</strong></li>
+  <li><strong>LINQ</strong></li>
+  <li><strong>JavaScript</strong></li>
+  <li><strong>React</strong></li>
+  <li><strong>SQL Server</strong></li>
+</ul>
+
+<h2>Projects</h2>
+<p>Here are a few projects I've worked on:</p>
+<ul>
+  <li><strong>Project 1</strong>: A web application developed with React for [describe the project].</li>
+  <li><strong>Project 2</strong>: An e-commerce platform built using C# and SQL Server for [describe the project].</li>
+</ul>
+
+<h2>Contact Me</h2>
+<p>Let's connect! You can find me on:</p>
+<ul>
+  <li><a href="https://www.linkedin.com/in/yourusername">LinkedIn</a></li>
+  <li><a href="https://github.com/yourusername">GitHub</a></li>
+  <li><a href="https://twitter.com/yourusername">Twitter</a></li>
+</ul>
+
+<h2>Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Top Languages">
+
+<img src="https://github-readme-stats.vercel.app/api/?username=yourusername&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=your-repo-name" alt="GitHub Stats">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
