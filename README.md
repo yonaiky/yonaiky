@@ -4,7 +4,7 @@
 
 <h2>About Me</h2>
 <ul>
-  <li>💼 I'm a Junior Programmer, passionate about web development and software engineering.</li>
+  <li>💼 I'm a software developer, passionate about web development and software engineering.</li>
   <li>🌱 I'm constantly learning and improving my skills in C#, LINQ, JavaScript, React, and SQL Server.</li>
   <li>📧 You can reach me at <a href="mailto:yonaikymatos@gmail.com">yonaikymatos@gmail.com</a>.</li>
 </ul>
