@@ -1,23 +1,133 @@
-<h1>Hi there! 👋, I'm Yonaiky Matos</h1>
+<div align="center">
 
-<p>I'm a software developer with expertise in C#, LINQ, JavaScript, React, and SQL Server.</p>
+# 👨‍💻 Yonaiky Matos
 
-<h2>About Me</h2>
-<ul>
-  <li>🌱 I'm constantly learning and improving my skills in C#, LINQ, JavaScript, React, and SQL Server.</li>
-  <li>📧 You can reach me at <a href="mailto:yonaikymatos@gmail.com">yonaikymatos@gmail.com</a>.</li>
-</ul>
+### Full Stack Developer • DevOps Enthusiast • Cyberpunk Builder
 
-<h2>Contact Me</h2>
-<p>Let's connect! You can find me on:</p>
-<ul>
-  <li><a href="https://www.linkedin.com/in/yonaikymatos">LinkedIn</a></li>
-  <li><a href="https://github.com/yonaiky">GitHub</a></li>
-</ul>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+cool+things+with+code...;Full+Stack+Developer;React+%7C+Next.js+%7C+.NET;Linux+%7C+Docker+%7C+Coolify;Always+learning+new+technologies" alt="Typing SVG" />
 
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yonaiky&show_icons=true&locale=en&layout=compact" alt="yonaiky" /></p>
+<a href="https://github.com/yonaiky">
+    <img src="https://img.shields.io/github/followers/yonaiky?label=Followers&style=for-the-badge&color=0f172a&labelColor=020617" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yonaiky&show_icons=true&locale=en" alt="yonaiky" /></p>
+<a href="https://github.com/yonaiky">
+    <img src="https://img.shields.io/github/stars/yonaiky?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=06b6d4&labelColor=020617" />
+</a>
+
+<a href="mailto:yonaikymatos@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```bash
+> whoami
+
+Name: Yonaiky Matos
+Role: Full Stack Developer
+Location: Dominican Republic 🇩🇴
+Focus: Modern Web Apps, Monitoring Systems & DevOps
+```
+
+💡 Passionate about building scalable applications, hacker-style dashboards, monitoring systems, and modern web experiences.
+
+⚡ Currently working with:
+- React / Next.js
+- C# / .NET
+- Linux Servers
+- Docker & Coolify
+- SQL Server
+- APIs & Monitoring Tools
+
+🌱 Always learning new technologies and improving my development workflow.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yonaikymatos">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yonaiky">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:yonaikymatos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,cs,dotnet,nodejs,linux,docker,firebase,git,mysql,postgres,vue,vscode" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yonaiky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonaiky&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yonaiky&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# ⚔️ Current Goals
+
+- 🚀 Build powerful SaaS & monitoring platforms
+- 🐳 Improve DevOps & self-hosting skills
+- 🌐 Deploy scalable infrastructure
+- 🧠 Master advanced backend architectures
+- ⚡ Create visually stunning hacker-style interfaces
+
+---
+
+# 🧠 Fun Fact
+
+```js
+while(alive) {
+   eat();
+   code();
+   sleep();
+   repeat();
+}
+```
+
+---
+
+<div align="center">
+
+### 👁️ Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=yonaiky&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
